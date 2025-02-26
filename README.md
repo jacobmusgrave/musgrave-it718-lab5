@@ -3,5 +3,5 @@
 
 This is a simple project demonstrating a CI/CD pipeline using GitHub Actions.
 
-# Repository
+## Repository
 https://github.com/jacobmusgrave/musgrave-it718-lab5/
